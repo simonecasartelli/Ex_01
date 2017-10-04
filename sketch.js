@@ -59,7 +59,7 @@ function draw() {
   fill(0);
   textSize(20)
   text("BB-8",-350,-200)
-  text("Resistence Droid",-350,-220)
+  text("Resistance Droid",-350,-220)
   
   //OrangeBall
   noStroke()
